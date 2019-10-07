@@ -1,0 +1,103 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:2em;
+    font-weight: bold;
+    color: #00314B;
+
+}
+
+
+.mailId {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+
+}
+.passWrd {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+
+}
+.fName {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+
+}
+.lName {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+
+}
+.orgName {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+   
+
+}
+.contactNum {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0084CB;
+
+}
+.regisButton {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    background-color: #02DAB0;
+    font-weight: bold;
+    color:#f2f2f2;
+
+}
+.regisButton:hover {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.welCome{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-weight: bold;
+    color: #00314B;
+}
+.headerLink {
+    color: rgb(9, 52, 102);
+    font-weight: bold;
+    font-size: 1.125rem;
+    text-align:center;
+    text-decoration:underline;
+  }
+  .headerLink:hover {
+    text-decoration: none;
+    /* border-bottom: solid #0084CB 2px; */
+    color: #0084CB;
+  }
+
+  @media only screen and (min-width:1024px) and (max-width:1100px) {
+  div.row{
+    font-size: 25px;
+    padding: 15px;
+  }
+       }
+
+       /* @media only screen and (min-width:1440px) {
+        div.row{
+          font-size: 20px;
+          padding: 5px;
+        }
+             }
+
+             @media only screen and (min-width:1280px) {
+                div.row{
+                    font-size: 10px;
+                    padding: 5px;
+                }
+                     } */
