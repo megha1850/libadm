@@ -1,3 +1,13 @@
+<?php
+include 'libraryinclude.php';
+if($_SESSION['logged_in']==false)
+{
+       header("location:newlogin.php");
+}
+function upProfile()
+    { }
+
+?>
 <!DOCTYPE html>
 <html>
 
